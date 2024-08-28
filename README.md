@@ -3,8 +3,6 @@
 Paper list accompanying <br> [A Survey on Model MoErging: Recycling and Routing
 Among Specialized Experts for Collaborative Learning](https://www.arxiv.org/pdf/2408.07057)
 
-# Survey of MoErging Methods
-
 ### AdapterFusion
 
 | Expert Training | Expert Data | Routing Dataset | Input Granularity | Depth Granularity | Expert Selection | Expert Aggregation | Generalization | User Dataset |
